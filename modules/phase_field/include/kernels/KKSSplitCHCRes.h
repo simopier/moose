@@ -48,7 +48,7 @@ private:
   unsigned int _nvar;
 
   ///@{
-  /// Phase concnetration variables
+  /// Phase concentration variables
   unsigned int _ca_var;
   VariableName _ca_name;
   unsigned int _cb_var;
